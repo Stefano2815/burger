@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Stefano2815/burger/issues"
   },
-  "homepage": "https://github.com/Stefano2815/burger#readme",
+  "homepage": ,
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
